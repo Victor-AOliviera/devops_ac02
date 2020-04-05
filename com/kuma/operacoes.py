@@ -1,5 +1,5 @@
 class operacoes():
-    def soma(selfself,valores):
+    def soma(self,valores):
         val = 0
         for v in valores:
             val = val + v
